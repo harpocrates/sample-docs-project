@@ -38,7 +38,7 @@ Here's a numbered list:
  2. second item
  3. third item
 
-Note again how the actual text starts at 4 columns in (4 characters
+Note again how the actual texxt starts at 4 columns in (4 characters
 from the left side).
 
 ### An h3 header ###
