@@ -20,7 +20,7 @@ lazy val docs = (project in file("docs"))
   )
   .settings(
     name := "Documentation",
-    git.remoteRepo := "git@github.com:harpocrates/sample-docs-project.git"
+    git.remoteRepo := "https://github.com/harpocrates/sample-docs-project",
     Compile / paradoxMaterialTheme ~= {
       _
         .withColor("white", "blue")
